@@ -15,7 +15,7 @@ Improving my backend web development knowledge through the Turing School of Soft
 
 #### How I work with others
 
-Chekout my interactions with fellow developers through: 
+Checkout my interactions with fellow developers through: 
 - [PR reviews](https://github.com/Arique1104/monster_shop_2005/pulls?q=is%3Apr+is%3Aclosed)
 - [Logging issues](https://github.com/ckccameron/viewing_party/issues) for future developement
 - Thoughtful commit messages
