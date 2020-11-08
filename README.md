@@ -10,7 +10,7 @@ I am confident working with Ruby, Rails, SQL, HTML, and CSS. I’ve also worked 
 
 - Learning Backend Web development
 - Currently working on creating and consuming restful APIs. 
-- See my latest project [here.](https://github.com/angelaguardia/viewing_party)
+- See my latest project [here.](https://github.com/My-Solar-Garden)
 
 #### How I work with others
 
