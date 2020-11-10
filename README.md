@@ -6,11 +6,13 @@ Now I am focusing on using these skills to build software solutions that align w
 
 I am confident working with Ruby, Rails, SQL, HTML, and CSS. I’ve also worked with Python and C. In my ideal job, I work on a team using breakthrough technology to create radical solutions that solve big, meaningful problems. I pride myself on being a great collaborator and empathetic teammate. I am known to do thorough and thoughtful code reviews that spark conversations and improve the codebase. 
 
+Find my resume [here](https://github.com/AngelaGuardia/angelaguardia/blob/main/AngelaGuardiaResume%20(11).pdf).
+
 #### What I am working on
 
 - Learning Backend Web development
 - Currently working on creating and consuming restful APIs. 
-- See my latest project [here.](https://github.com/My-Solar-Garden)
+- See my latest project, My Solar Garden, [here.](https://github.com/My-Solar-Garden)
 
 #### How I work with others
 
