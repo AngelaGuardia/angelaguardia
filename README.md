@@ -11,7 +11,7 @@ Find my resume [here](https://github.com/AngelaGuardia/angelaguardia/blob/main/A
 #### What I am working on
 
 - Learning Backend Web development
-- Currently working on creating and consuming restful APIs. 
+- Currently working on creating and consuming restful APIs. See my latest API, sweater weather, [here.](https://github.com/AngelaGuardia/sweater_weather)
 - See my latest project, My Solar Garden, [here.](https://github.com/My-Solar-Garden)
 
 #### How I work with others
