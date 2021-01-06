@@ -12,7 +12,7 @@ Find my resume [here](https://github.com/AngelaGuardia/angelaguardia/blob/main/A
 
 - Learning Backend Web development
 - Currently working on creating and consuming graphQL APIs. See my latest API, Eras, [here.](https://github.com/Turing-Eras/api)
-- See my laterst RESTful API, Sweater Weather, [here.](https://github.com/AngelaGuardia/sweater_weather)
+- See my latest RESTful API, Sweater Weather, [here.](https://github.com/AngelaGuardia/sweater_weather)
 - See my latest group project, My Solar Garden, [here.](https://github.com/My-Solar-Garden)
 
 #### How I work with others
