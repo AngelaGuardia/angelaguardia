@@ -18,7 +18,7 @@ Find my resume [here](https://github.com/AngelaGuardia/angelaguardia/blob/main/A
 #### How I work with others
 
 Checkout my interactions with fellow developers through: 
-- [PR reviews](https://github.com/Arique1104/monster_shop_2005/pulls?q=is%3Apr+is%3Aclosed)
+- [PR reviews](https://github.com/Turing-Eras/api/pull/84)
 - [Logging issues](https://github.com/ckccameron/viewing_party/issues) for future developement
 - Thoughtful commit messages
 
