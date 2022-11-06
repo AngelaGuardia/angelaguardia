@@ -1,19 +1,21 @@
 ### Hi there, I'm Angela 👋
 
-I am a bright and highly-motivated Software Engineer who loves working towards team goals. I harnessed my skills for problem-solving, teamwork, and analytical thinking as a Mechanical Engineer in leading Oil and Gas organizations. 
+I am a bright and highly-motivated Software Engineer who is passionate about making an impact through my work. In my next role, I am looking to tackle difficult problems with innovative solutions to drive meaningful change where it matters the most. 
 
-Now I am focusing on using these skills to build software solutions that align with my values. Be that harnessing human potential through accessible applications, advancing connected devices technology, or protecting our environment.
+As part of Twitter’s Build team, I architected, designed, and implemented engineering solutions to facilitate the migration of Twitter’s build tool from Pants to Bazel. These solutions improved developer productivity and development velocity for 1000+ engineers. 
 
-I am confident working with Ruby, Rails, SQL, HTML, and CSS. I’ve also worked with Python and C. In my ideal job, I work on a team using breakthrough technology to create radical solutions that solve big, meaningful problems. I pride myself on being a great collaborator and empathetic teammate. I am known to do thorough and thoughtful code reviews that spark conversations and improve the codebase. 
+At Twitter, I used Python, bash scripting, and CI/CD tools to facilitate the migration of 130k+ targets from Pants to Bazel. I also have experience making backend web applications with Ruby, Rails, SQL, HTML, and CSS. 
 
 Find my resume [here](https://github.com/AngelaGuardia/angelaguardia/blob/main/AngelaGuardiaResume.pdf).
 
-#### What I am working on
+#### What I've worked on
 
-- Learning Backend Web development
-- Currently working on creating and consuming graphQL APIs. See my latest API, Eras, [here.](https://github.com/Turing-Eras/api)
-- See my latest RESTful API, Sweater Weather, [here.](https://github.com/AngelaGuardia/sweater_weather)
-- See my latest group project, My Solar Garden, [here.](https://github.com/My-Solar-Garden)
+- Build tools at Twitter
+
+- Backend Web development
+- GraphQL APIs. See my latest API, Eras, [here.](https://github.com/Turing-Eras/api)
+- RESTful API, Sweater Weather, [here.](https://github.com/AngelaGuardia/sweater_weather)
+- IoT Project, My Solar Garden, [here.](https://github.com/My-Solar-Garden)
 
 #### How I work with others
 
@@ -25,5 +27,3 @@ Checkout my interactions with fellow developers through:
 #### Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/angela-guardia/) 
-
-[![Angela's github stats](https://github-readme-stats.vercel.app/api?username=angelaguardia&hide=stars)](https://github.com/angelaguardia/github-readme-stats)
