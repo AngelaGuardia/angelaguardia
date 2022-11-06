@@ -4,7 +4,7 @@ I am a bright and highly-motivated Software Engineer who is passionate about mak
 
 As part of Twitter’s Build team, I architected, designed, and implemented engineering solutions to facilitate the migration of Twitter’s build tool from Pants to Bazel. These solutions improved developer productivity and development velocity for 1000+ engineers. 
 
-At Twitter, I used Python, bash scripting, and CI/CD tools to facilitate the migration of 130k+ targets from Pants to Bazel. I also have experience making backend web applications with Ruby, Rails, SQL, HTML, and CSS. 
+At Twitter, I used Python, bash scripting, and CI tools to facilitate the migration of 130k+ targets from Pants to Bazel. I also have experience making backend web applications with Ruby, Rails, SQL, HTML, and CSS. 
 
 Find my resume [here](https://github.com/AngelaGuardia/angelaguardia/blob/main/AngelaGuardiaResume.pdf).
 
