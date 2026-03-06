@@ -5,6 +5,7 @@ I am a bright and highly-motivated Software Engineer who is passionate about mak
 Find my resume [here](https://github.com/AngelaGuardia/angelaguardia/blob/main/AngelaGuardiaResume.pdf).
 
 #### What I've worked on
+- Server engineering at Cash App
 - iOS developer experience at Block, inc.
 
 - Build tools at Twitter
