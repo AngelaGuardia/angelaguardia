@@ -7,20 +7,7 @@ Find my resume [here](https://github.com/AngelaGuardia/angelaguardia/blob/main/A
 #### What I've worked on
 - Server engineering at Cash App
 - iOS developer experience at Block, inc.
-
 - Build tools at Twitter
-
-- Backend Web development
-- GraphQL APIs. See my latest API, Eras, [here.](https://github.com/Turing-Eras/api)
-- RESTful API, Sweater Weather, [here.](https://github.com/AngelaGuardia/sweater_weather)
-- IoT Project, My Solar Garden, [here.](https://github.com/My-Solar-Garden)
-
-#### How I work with others
-
-Checkout my interactions with fellow developers through: 
-- [PR reviews](https://github.com/Turing-Eras/api/pull/84)
-- [Logging issues](https://github.com/ckccameron/viewing_party/issues) for future developement
-- Thoughtful commit messages
 
 #### Find me elsewhere
 
